@@ -5,4 +5,6 @@
   --colourfour: #467c04;
   --colourfive: #000115;
   --coloursix: #008e2450;
+
+  --main-color: var(--colourone);
 }
