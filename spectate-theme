@@ -1,0 +1,8 @@
+:root.spectate-theme {
+  --colourone: #008e24;
+  --colourtwo: #a9ce00;
+  --colourthree: #e3e2c2;
+  --colourfour: #467c04;
+  --colourfive: #000115;
+  --coloursix: #008e2450;
+}
