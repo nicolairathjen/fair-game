@@ -14,3 +14,8 @@
 :root.spectate .col-md-7 {
   width: 90%;
 }
+
+:root.spectate .ladder-row[data-v-b13887f0] {
+  height:80%;
+  max-height:80%
+}
