@@ -1,9 +1,8 @@
 :root.spectate {
 
-  --colourone: #008e24;
-  --colourtwo: #a9ce00;
-  --colourthree: #e3e2c2;
-  --colourfour: #467c04;
-  --colourfive: #000115;
-  --coloursix: #008e2450;
+  
+}
+
+:root.exampletheme .col-6[data-v-260edd08] {
+  display:none;
 }
