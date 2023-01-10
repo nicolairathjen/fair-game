@@ -12,7 +12,7 @@
 }
 
 :root.spectate .col-md-7 {
-  width: 90%;
+  width: 100%;
 }
 
 :root.spectate .ladder-row[data-v-b13887f0] {
