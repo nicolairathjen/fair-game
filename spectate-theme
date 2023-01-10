@@ -3,6 +3,6 @@
   
 }
 
-:root.exampletheme .col-6[data-v-260edd08] {
+:root.spectate .col-6[data-v-260edd08] {
   display:none;
 }
