@@ -1,0 +1,21 @@
+:root.no-chad {
+
+  
+}
+
+:root.no-chad .col-6[data-v-260edd08] {
+  width:100%;
+}
+
+:root.bi.chad .chat-window[data-v-b159dd4a] {
+  display:none;
+}
+
+:root.no-chad .col-md-7 {
+  width: 100%;
+}
+
+:root.no-chad .ladder-row[data-v-b13887f0] {
+  height:90%;
+  max-height:90%;
+}
