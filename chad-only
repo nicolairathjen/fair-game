@@ -17,3 +17,7 @@
   max-width: 100%;
   height
 }
+
+:root.chad-only .game-view[data-v-6051e4ec] {
+  height: calc(100vh - 56px);
+}
