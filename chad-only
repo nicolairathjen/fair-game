@@ -1,0 +1,20 @@
+:root.chad-only {
+
+  
+}
+
+/* Ladder window */
+:root.chad-only .col-12 .col-md-7[data-v-6051e4ec] {
+  display:none;
+}
+
+/* Outside Chad container */
+:root.chad-only .col-12 .col-md-5[data-v-6051e4ec] {
+  width:100%;
+}
+
+/* Actual Chad container */
+:root.spectate .chat-window[data-v-b159dd4a] {
+  width: 95%;
+  max-width: 100%;
+}
