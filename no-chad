@@ -17,5 +17,5 @@
 
 :root.no-chad .ladder-row[data-v-b13887f0] {
   height:90%;
-  max-height:90%;
+  max-height:calc(100% - 200px);
 }
