@@ -9,9 +9,11 @@
 
 :root.chad-only .col-md-5[data-v-6051e4ec] {
   width:100%;
+  height:90vh;
 }
 
 :root.chad-only .chat-window[data-v-b159dd4a] {
   width: 95%;
   max-width: 100%;
+  height
 }
