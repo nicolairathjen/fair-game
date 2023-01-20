@@ -14,7 +14,7 @@
 }
 
 /* Actual Chad container */
-:root.spectate .chat-window[data-v-b159dd4a] {
+:root.chad-only .chat-window[data-v-b159dd4a] {
   width: 95%;
   max-width: 100%;
 }
